@@ -3,3 +3,6 @@ Developing my programming skills in Python by tasks/challenges on CodeWars platf
 
 Link to my profile on Codewars:
 https://www.codewars.com/users/mikolajsztaba
+
+My rank:
+https://www.codewars.com/users/mikolajsztaba/badges/large
